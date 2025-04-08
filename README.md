@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 📫 How to reach me: guozhihaoemail@gmail.com
-- 🌱 I’m currently learning： Distributed systems、NoSQL（KV、cache）、Machine Learning Engineering
+- 🌱 I’m currently learning \ interested in： Distributed systems、NoSQL（KV、cache）、Machine Learning Engineering
 - ⚡ Commonly Used Programming Languages：C++, Go, Rust, Python
 - 👯 resume：
 - 🔭 currently doing \ learning ：
