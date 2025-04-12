@@ -5,7 +5,7 @@
 - ⚡ Commonly Used Programming Languages：C++, Go, Rust, Python
 - 👯 resume：
 - 🔭 currently doing \ learning ：
-  -  [kiwi](https://github.com/arana-db/kiwi) : A C++20 implementation of Redis Server, use RocksDB for persist storage
+  -  [kiwi](https://github.com/arana-db/kiwi) | [kiwi-rs](https://github.com/arana-db/kiwi-rs): A C++20 implementation of Redis Server, use RocksDB for persist storage
   -  [redis](https://github.com/redis/redis) | [valkey](https://github.com/valkey-io/valkey) : A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
   -  rrproxy : Lightweight Redis proxy built with Rust that support multi-tenant libraries
 
