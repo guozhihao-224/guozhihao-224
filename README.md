@@ -86,9 +86,3 @@ Lightweight Rust Redis proxy with multi-tenant and multi-library support.
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guozhihao-224&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guozhihao-224&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="38%">
-</p>
