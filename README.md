@@ -22,3 +22,7 @@
 
 ---
 
+### Tech Stack
+- Languages: Rust, Golang, Python, C++
+- Interests: AI, Cache(Redis\KV)
+
