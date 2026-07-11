@@ -1,6 +1,6 @@
 ### Hi, I'm Zhihao Guo 👋</h1>
 - Currently working at Xiaomi, primarily responsible for Redis middleware, data synchronization tools, and high-availability components.  
-- Interested in LLM-related infrastructure, such as **LLM inference**, **kv-cache**, and **RL infrastructure**.
+- Interested in LLM-related infrastructure and currently conducting in-depth research (learning), such as **LLM inference**, **kv-cache**, and **RL infrastructure**.
 
 ### Currently focusing on
 
